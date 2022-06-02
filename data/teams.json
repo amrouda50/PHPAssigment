@@ -1,0 +1,27 @@
+{
+    "1": {
+        "id": "1",
+        "name": "FC ELTE",
+        "city": "Budapest"
+    },
+    "2": {
+        "id": "2",
+        "name": "FC BME",
+        "city": "Budapest"
+    },
+    "3": {
+        "id": "3",
+        "name": "FC Szeged",
+        "city": "Szeged"
+    },
+    "4": {
+        "id": "4",
+        "name": "FC IERA",
+        "city": "Pecs"
+    },
+    "5": {
+        "id": "5",
+        "name": "FC Pecs",
+        "city": "Pecs"
+    }
+}
